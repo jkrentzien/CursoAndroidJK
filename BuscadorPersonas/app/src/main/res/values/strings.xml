@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BuscadorPersonas</string>
+
+    <array name="dni11224455">
+        <item>Dr House</item>
+        <item>""45</item>
+    </array>
+    <array name="dni12345678">
+        <item>Olivia Wilde</item>
+        <item>""33</item>
+    </array>
+    <array name="dni98765432">
+        <item>I am Your Master</item>
+        <item>""42</item>
+    </array>
+
+
+</resources>
